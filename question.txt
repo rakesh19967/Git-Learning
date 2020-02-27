@@ -1,0 +1,213 @@
+The sum of the squares of two numbers is 3341 and the difference of their squares is 891. The numbers are :
+
+A) 35 and 46	B) 35 and 50
+C) 40 and 55	D) 45 and 60
+Explanation:
+Let the numbers be x and y. Then,
+
+ x^2+y^2=3341......(1)
+
+ x^2-y^2=891......(2)
+
+ Adding (i) and (ii), we get : 2x^2=4232 or x^2= 2116 or x =46
+
+ Subtracting (ii) from (i), we get : 2y^2= 2450 or y^2 = 1225 or y = 35
+
+ So, the numbers are 35 and 46
+
+
+
+
+
+There are four prime numbers written in ascending order of magnitude. The product of the first three is 385 and the last three is 1001. Find the fourth number?
+
+A) 17	B) 19
+C) 13	D) 11
+Explanation:
+
+(385/1001) = 5/13
+
+First Number is 5
+
+=> Fourth number is 13 
+
+
+Find the lowest 4-digit number which when divided by 3, 4 or 5 leaves a remainder of 2 in each case?
+
+A) 1020	B) 1040
+C) 1060	D) 1022
+Explanation:
+
+Lowest 4-digit number is 1000.
+LCM of 3, 4 and 5 is 60.
+Dividing 1000 by 60, we get the remainder 40. Thus, the lowest 4-digit number that exactly divisible by 3, 4 and 5 is 1000 + (60 - 40) = 1020.
+Now, add the remainder 2 that's required. Thus, the answer is 1022.
+
+
+
+
+
+A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:
+
+A) 650	B) 690
+C) 698	D) 700
+Explanation:
+
+S.I. for 1 year =  Rs. (854 - 815) = Rs. 39.
+
+S.I. for 3 years = Rs.(39 x 3) = Rs. 117.
+
+Principal = Rs. (815 - 117) = Rs. 698
+
+
+
+
+
+A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest
+
+A) 3%	B) 4%
+C) 5%	D) 6%
+Explanation:
+
+S.I. = Rs. (15500 - 12500) = Rs. 3000.
+
+Rate = (100 * 3000)/(12500 * 4) = 6%
+
+
+
+If the C.I. on a sum for 2 years at 12 1/2 % per annum is Rs. 510, the S.I. on the same sum at the same rate for the same period of time is?
+
+A) Rs. 580	B) Rs. 480
+C) Rs. 550	D) Rs. 470
+Explanation:
+
+Let the sum be Rs. P. Then,
+
+[P(1+(25/(2x100))^2 - P] = 510
+
+Sum = Rs. 1920
+
+So, S.I. = (1920 x 25 x 2) / (2 x 100) = Rs. 480
+
+
+
+A father said his son, " I was as old as you are at present at the time of your birth. " If the father age is 38 now, the son age 5 years back was :
+
+A) 14	B) 19
+C) 33	D) 38
+Explanation:
+
+Let the son's present age be x years.Then, (38 - x) = x => x= 19. 
+
+ Son's age 5 years back = (19 - 5) = 14 years
+
+
+
+The proportion of Yuvaraj’s age to Ganguly’s age is 4:3. Yuvaraj will be 26 years old after 6 years. What is the age of Ganguly now ?
+
+A) 17 years	B) 15 years
+C) 19 years	D) 12 years
+Explanation:
+
+Current ages of Yuvaraj = 4A and Ganguly = 3A
+So that 4A + 6 = 26
+A = 5
+Current age of Ganguly = 3A
+=> 3 x 5 = 15 years
+
+
+
+If log 2 = 0.30103, Find the number of digits in 2^56 is
+
+A) 17	B) 19
+C) 23	D) 25
+Log (2^56) =56*0.30103 =16.85768.  
+
+Its characteristics is 16.
+
+Hence, the number of digits in 2^56 is 17
+
+
+
+In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?
+
+A) 720	B) 520
+C) 700	D) 750
+Explanation:
+
+The word 'LEADING' has 7 different letters.
+
+When the vowels EAI are always together, they can be supposed to form one letter.
+
+Then, we have to arrange the letters LNDG (EAI).
+
+Now, 5 (4 + 1) letters can be arranged in 5! = 120 ways.
+
+The vowels (EAI) can be arranged among themselves in 3! = 6 ways.
+
+Required number of ways = (120 x 6) = 720.
+
+
+
+A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?
+
+A) 1260	B) 1400
+C) 1250	D) 1600
+Explanation:
+A team of 6 members has to be selected from the 10 players. This can be done in 10C6 or 210 ways. 
+
+Now, the captain can be selected from these 6 players in 6 ways.
+Therefore, total ways the selection can be made is 210×6= 1260
+
+
+
+
+
+In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?
+
+A) 135	B) 63
+C) 125	D) 64
+Explanation:
+
+Required number of ways = 7C5 * 3C2 = 63
+
+
+
+Tennis is to Sport as Chemistry is to
+
+A) Biology	B) Physics
+C) Science	D) Subject
+Explanation:
+
+As Tennis is a kind of Sport, similarly, Chemistry is a kind of science.
+
+Hence, Tennis : Sport :: Chemistry : Science.
+
+
+
+Find the missing number in the following series?
+
+3, 5, 5, 19, 7, 41, 9, ?
+
+A) 71	B) 61
+C) 79	D) 69
+Explanation:
+
+Fiest series : 3, 5, 7, 9
+
+Second series : 5, 19, 41, ?
+
+ Difference of Second series are 14, 22, 30 etc
+
+Next term is 41+30 i.e equal to 71
+
+
+
+8, 15, 28, 53, ?, 199
+
+A) 101	B) 102
+C) 103	D) 104
+ Explanation:
+
+Here the series will be 53 x 2 - 4 = 106 - 4 = 102  
+
